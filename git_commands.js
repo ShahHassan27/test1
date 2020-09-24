@@ -12,6 +12,8 @@
 
     git commit -m "added new commands for github"   [commit is a snap shot like a check point useful to save different versions]
 
+    git log [history of all commits]
 
+    git log --oneline   [checkout, Revert, Reset commit]
 
  */
