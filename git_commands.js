@@ -41,6 +41,10 @@
     SOme guy did changes to master and conflick can arise as feature-3 was creted before this change
 
     Featuer-3 is commiting now
+
+    created a repo on github and copies http url and used
+
+    git push https://github.com/ShahHassan27/test1.git master
     
 
 
