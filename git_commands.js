@@ -26,5 +26,15 @@
 
     git checkout <commit_id> to jump to code in commit ID
 
+    git branch -a [all branches ]
+
+    git branch feature-1 [create new branch]
+
+    git checkout feature-1 [switched to branch called feature-1]
+
+    
+
+
+
 
  */
