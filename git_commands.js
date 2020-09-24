@@ -16,4 +16,6 @@
 
     git log --oneline   [checkout, Revert, Reset commit]
 
+    git checkout <id_commit>
+
  */
