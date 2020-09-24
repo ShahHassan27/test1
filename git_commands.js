@@ -34,6 +34,8 @@
 
     git branch -d/-D feautre-1 [when on master and use -D when not merged ]
 
+    git checkout -b 'feature-2'  [short hand to create a branch and switch to it]
+
     
 
 
