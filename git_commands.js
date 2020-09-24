@@ -16,8 +16,15 @@
 
     git log --oneline   [checkout, Revert, Reset commit]
 
+    git checkout master <Jump_back_master>
+
+    git revert <commit_id> will make a new commit with chages 
+
     git reset [keeps changes in file but removes commit history]
 
     git reset --hard [removes changes and history]
+
+    git checkout <commit_id> to jump to code in commit ID
+
 
  */
