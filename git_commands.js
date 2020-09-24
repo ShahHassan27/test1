@@ -36,6 +36,7 @@
 
     git checkout -b 'feature-2'  [short hand to create a branch and switch to it]
 
+    git merge <branchname>
     
 
 
