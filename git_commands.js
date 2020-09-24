@@ -49,6 +49,8 @@
     git remote add <origin> https://github.com/ShahHassan27/test1.git  [origin is alyis for the url]
 
     git clone <remote_repo_url> [when cloning we dont need alyis as git adds remote itself]
+
+    git pull origin master [pulls code from origin - remote to master branch ]
     
 
 
