@@ -45,6 +45,10 @@
     created a repo on github and copies http url and used
 
     git push https://github.com/ShahHassan27/test1.git master
+
+    git remote add <origin> https://github.com/ShahHassan27/test1.git  [origin is alyis for the url]
+
+    git clone <remote_repo_url> [when cloning we dont need alyis as git adds remote itself]
     
 
 
