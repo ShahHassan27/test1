@@ -32,6 +32,8 @@
 
     git checkout feature-1 [switched to branch called feature-1]
 
+    git branch -d/-D feautre-1 [when on master and use -D when not merged ]
+
     
 
 
