@@ -37,6 +37,10 @@
     git checkout -b 'feature-2'  [short hand to create a branch and switch to it]
 
     git merge <branchname>
+
+    SOme guy did changes to master and conflick can arise as feature-3 was creted before this change
+
+    Featuer-3 is commiting now
     
 
 
