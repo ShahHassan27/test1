@@ -51,6 +51,8 @@
     git clone <remote_repo_url> [when cloning we dont need alyis as git adds remote itself]
 
     git pull origin master [pulls code from origin - remote to master branch ]
+
+    all good ***
     
 
 
