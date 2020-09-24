@@ -16,6 +16,8 @@
 
     git log --oneline   [checkout, Revert, Reset commit]
 
-    git checkout <id_commit>
+    git reset [keeps changes in file but removes commit history]
+
+    git reset --hard [removes changes and history]
 
  */
